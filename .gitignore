@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea/.idea.Design_Pattern/.idea
+/.vs
+/MediaTor/bin/Debug/net10.0
+/MediaTor/obj
