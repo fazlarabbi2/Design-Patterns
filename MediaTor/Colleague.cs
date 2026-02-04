@@ -2,9 +2,9 @@
 
 public abstract class Colleague
 {
-   protected Mediator _mediator = null!;
+    protected IMediator _mediator = null!;
 
-    public void SetMediator(Mediator mediator)
+    public void SetMediator(IMediator mediator)
     {
         _mediator = mediator;
     }

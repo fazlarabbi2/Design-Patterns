@@ -1,10 +1,10 @@
 ﻿namespace MediaTor;
 
-public class ConcreteMediator : Mediator
+public class ConcreteMediator : IMediator
 {
     private readonly Colleague1 colleague1;
     private readonly Colleague2 colleague2;
-    
+
     public ConcreteMediator(Colleague1 colleague1, Colleague2 colleague2)
     {
         this.colleague1 = colleague1;

@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="MediaTor/MediaTor.csproj" />
+  <Project Path="MediaTor_3.2/MediaTor_3.2.csproj" Id="14d1765a-5a02-4599-8eca-fbae84913d4c" />
 </Solution>
